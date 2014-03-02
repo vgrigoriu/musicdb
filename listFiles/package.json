@@ -6,5 +6,8 @@
   "author": {
     "name": "victor",
     "email": ""
+  },
+  "dependencies": {
+    "musicmetadata": "^0.3.3"
   }
 }
