@@ -1,0 +1,10 @@
+{
+  "name": "listFiles",
+  "version": "0.0.0",
+  "description": "listFiles",
+  "main": "app.js",
+  "author": {
+    "name": "victor",
+    "email": ""
+  }
+}
